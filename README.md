@@ -1,0 +1,2 @@
+.bashrc
+  eval `dircolors ~/.colorrc`
